@@ -30,7 +30,6 @@ class SensorService {
     }
 
     listarSensores () {
-        console.log(this.sensores)
         return this.sensores;
     };
 }
